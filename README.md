@@ -1,0 +1,3 @@
+# neovimrc
+
+Stolen from primeagen.
